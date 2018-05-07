@@ -106,8 +106,8 @@
               "src": "https://www.youtube.com/watch?v=9GhNhMmzKN4",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
+              "autoplay": "on",
+              "loop": "on"
             }
           },
           "title": "VIDEO",
