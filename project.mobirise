@@ -47,7 +47,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Performing Art",
-          "text": "One of the most interesting electives in Springfield School",
+          "text": "One of the most interesting electives in Springfield School<br><br>By: Owen, Michael, Jerry, Bryan G9D CT",
           "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_tags": [
             "Theme"
